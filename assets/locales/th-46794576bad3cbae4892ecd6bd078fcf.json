@@ -1,0 +1,252 @@
+{
+  "charset": "utf-8",
+  "headers": {
+    "project-id-version": "open-event-frontend",
+    "report-msgid-bugs-to": "open-event@googlegroups.com",
+    "pot-creation-date": "2019-01-31 16:31+0800",
+    "po-revision-date": "2021-09-19 16:35+0000",
+    "last-translator": "PPNplus <ppnplus@protonmail.com>",
+    "language-team": "Thai <https://hosted.weblate.org/projects/open-event/frontend/th/>",
+    "language": "th",
+    "mime-version": "1.0",
+    "content-type": "text/plain; charset=UTF-8",
+    "content-transfer-encoding": "8bit",
+    "plural-forms": "nplurals=1; plural=0;",
+    "x-generator": "Weblate 4.9-dev",
+    "x-crowdin-project": "open-event-frontend",
+    "x-crowdin-language": "th",
+    "x-crowdin-file": "/development/translations/en.po"
+  },
+  "translations": {
+    "": {
+      "Add": {
+        "msgid": "Add",
+        "msgstr": [
+          "เพิ่ม"
+        ]
+      },
+      "Add Video": {
+        "msgid": "Add Video",
+        "msgstr": [
+          "เพิ่มวิดีโอ"
+        ]
+      },
+      "An unexpected error has occurred.": {
+        "msgid": "An unexpected error has occurred.",
+        "msgstr": [
+          "เกิดข้อผิดพลาดที่ไม่คาดคิด"
+        ]
+      },
+      "Cancel": {
+        "msgid": "Cancel",
+        "msgstr": [
+          "ยกเลิก"
+        ]
+      },
+      "Contact Email": {
+        "msgid": "Contact Email",
+        "msgstr": [
+          "อีเมลติดต่อ"
+        ]
+      },
+      "Contact URL": {
+        "msgid": "Contact URL",
+        "msgstr": [
+          "URL ติดต่อ"
+        ]
+      },
+      "Could not fetch from the server": {
+        "msgid": "Could not fetch from the server",
+        "msgstr": [
+          "ไม่สามารถดึงข้อมูลจากเซิร์ฟเวอร์"
+        ]
+      },
+      "Custom": {
+        "msgid": "Custom",
+        "msgstr": [
+          "กำหนดเอง"
+        ]
+      },
+      "Download Ready": {
+        "msgid": "Download Ready",
+        "msgstr": [
+          "พร้อมดาวน์โหลด"
+        ]
+      },
+      "Email notifications updated successfully": {
+        "msgid": "Email notifications updated successfully",
+        "msgstr": [
+          "อัปเดตการแจ้งเตือนอีเมลเรียบร้อยแล้ว"
+        ]
+      },
+      "Name": {
+        "msgid": "Name",
+        "msgstr": [
+          "ชื่อ"
+        ]
+      },
+      "Oops something went wrong. Please try again": {
+        "msgid": "Oops something went wrong. Please try again",
+        "msgstr": [
+          "อ๊ะ มีบางอย่างผิดพลาด โปรดลองอีกครั้ง"
+        ]
+      },
+      "Passwords do not match": {
+        "msgid": "Passwords do not match",
+        "msgstr": [
+          "รหัสผ่านไม่ตรงกัน"
+        ]
+      },
+      "Please enter a name": {
+        "msgid": "Please enter a name",
+        "msgstr": [
+          "โปรดใส่ชื่อ"
+        ]
+      },
+      "Please enter a new password": {
+        "msgid": "Please enter a new password",
+        "msgstr": [
+          "โปรดใส่รหัสผ่านใหม่"
+        ]
+      },
+      "Please enter a phone number.": {
+        "msgid": "Please enter a phone number.",
+        "msgstr": [
+          "โปรดใส่หมายเลขโทรศัพท์"
+        ]
+      },
+      "Please enter a title": {
+        "msgid": "Please enter a title",
+        "msgstr": [
+          "โปรดใส่หัวข้อ"
+        ]
+      },
+      "Please enter a valid email address": {
+        "msgid": "Please enter a valid email address",
+        "msgstr": [
+          "โปรดใส่ที่อยู่อีเมลที่ถูกต้อง"
+        ]
+      },
+      "Please enter a valid phone number.": {
+        "msgid": "Please enter a valid phone number.",
+        "msgstr": [
+          "โปรดใส่หมายเลขโทรศัพท์ที่ถูกต้อง"
+        ]
+      },
+      "Please enter the current password": {
+        "msgid": "Please enter the current password",
+        "msgstr": [
+          "โปรดใส่รหัสผ่านปัจจุบัน"
+        ]
+      },
+      "Please enter the path": {
+        "msgid": "Please enter the path",
+        "msgstr": [
+          "โปรดใส่เส้นทาง"
+        ]
+      },
+      "Please enter your email ID": {
+        "msgid": "Please enter your email ID",
+        "msgstr": [
+          "โปรดใส่ ID อีเมล"
+        ]
+      },
+      "Please publish to generate the link": {
+        "msgid": "Please publish to generate the link",
+        "msgstr": [
+          "โปรดเผยแพร่เพื่อสร้างลิงก์"
+        ]
+      },
+      "Please upload a file": {
+        "msgid": "Please upload a file",
+        "msgstr": [
+          "โปรดอัปโหลดไฟล์"
+        ]
+      },
+      "Please upload a file in suggested format": {
+        "msgid": "Please upload a file in suggested format",
+        "msgstr": [
+          "โปรดอัปโหลดไฟล์ในรูปแบบที่แนะนำ"
+        ]
+      },
+      "Preview": {
+        "msgid": "Preview",
+        "msgstr": [
+          "ตัวอย่าง"
+        ]
+      },
+      "Publish": {
+        "msgid": "Publish",
+        "msgstr": [
+          "เผยแพร่"
+        ]
+      },
+      "Remove": {
+        "msgid": "Remove",
+        "msgstr": [
+          "เอาออก"
+        ]
+      },
+      "Room": {
+        "msgid": "Room",
+        "msgstr": [
+          "ห้อง"
+        ]
+      },
+      "Save": {
+        "msgid": "Save",
+        "msgstr": [
+          "บันทึก"
+        ]
+      },
+      "Unpublish": {
+        "msgid": "Unpublish",
+        "msgstr": [
+          "เลิกเผยแพร่"
+        ]
+      },
+      "Video Channel": {
+        "msgid": "Video Channel",
+        "msgstr": [
+          "ช่องวิดีโอ"
+        ]
+      },
+      "View": {
+        "msgid": "View",
+        "msgstr": [
+          "แสดง"
+        ]
+      },
+      "Your account has been deleted successfully.": {
+        "msgid": "Your account has been deleted successfully.",
+        "msgstr": [
+          "บัญชีของคุณถูกลบเรียบร้อยแล้ว"
+        ]
+      },
+      "Your event has been published successfully.": {
+        "msgid": "Your event has been published successfully.",
+        "msgstr": [
+          "เผยแพร่กิจกรรมของคุณเรียบร้อยแล้ว"
+        ]
+      },
+      "Your event has been unpublished.": {
+        "msgid": "Your event has been unpublished.",
+        "msgstr": [
+          "เลิกเผยแพร่กิจกรรมของคุณแล้ว"
+        ]
+      },
+      "Your event must have tickets before it can be published.": {
+        "msgid": "Your event must have tickets before it can be published.",
+        "msgstr": [
+          "กิจกรรมของคุณต้องมีตั๋วก่อนที่จะเผยแพร่ได้"
+        ]
+      },
+      "Your password must have at least {ruleValue} characters": {
+        "msgid": "Your password must have at least {ruleValue} characters",
+        "msgstr": [
+          "รหัสผ่านของคุณต้องมีอย่างน้อย {ruleValue} ตัวอักษร"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "charset": "utf-8",
+  "headers": {
+    "project-id-version": "PROJECT VERSION",
+    "report-msgid-bugs-to": "open-event@googlegroups.com",
+    "pot-creation-date": "2019-01-31 16:31+0800",
+    "po-revision-date": "2021-09-22 02:12+0000",
+    "last-translator": "Kristoffer Grundström <swedishsailfishosuser@tutanota.com>",
+    "language-team": "Swedish <https://hosted.weblate.org/projects/open-event/frontend/sv/>",
+    "language": "sv",
+    "mime-version": "1.0",
+    "content-type": "text/plain; charset=UTF-8",
+    "content-transfer-encoding": "8bit",
+    "plural-forms": "nplurals=2; plural=n != 1;",
+    "x-generator": "Weblate 4.9-dev",
+    "generated-by": "Babel 2.3.4"
+  },
+  "translations": {
+    "": {
+      "An unexpected error has occurred.": {
+        "msgid": "An unexpected error has occurred.",
+        "msgstr": [
+          "Ett oväntat fel har inträffat."
+        ]
+      },
+      "Could not fetch from the server": {
+        "msgid": "Could not fetch from the server",
+        "msgstr": [
+          "Kunde inte hämta från servern"
+        ]
+      },
+      "Download Ready": {
+        "msgid": "Download Ready",
+        "msgstr": [
+          "Nerladdningen redo"
+        ]
+      },
+      "Email notifications updated successfully": {
+        "msgid": "Email notifications updated successfully",
+        "msgstr": [
+          "Uppdatering för aviseringar via e-post lyckades"
+        ]
+      },
+      "Oops something went wrong. Please try again": {
+        "msgid": "Oops something went wrong. Please try again",
+        "msgstr": [
+          "Hoppsan, något gick fel. Vänligen försök igen"
+        ]
+      },
+      "Passwords do not match": {
+        "msgid": "Passwords do not match",
+        "msgstr": [
+          "Lösenorden matchar inte"
+        ]
+      },
+      "Path should not contain leading slash.": {
+        "msgid": "Path should not contain leading slash.",
+        "msgstr": [
+          "Genvägen bör inte innehålla ett inledande snedstreck."
+        ]
+      },
+      "Path should not contain whitespaces.": {
+        "msgid": "Path should not contain whitespaces.",
+        "msgstr": [
+          "Genvägen bör inte innehålla blanksteg."
+        ]
+      },
+      "Please enter a language": {
+        "msgid": "Please enter a language",
+        "msgstr": [
+          "Vänligen ange ett språk"
+        ]
+      },
+      "Please enter a name": {
+        "msgid": "Please enter a name",
+        "msgstr": [
+          "Vänligen ange ett namn"
+        ]
+      },
+      "Please enter a new password": {
+        "msgid": "Please enter a new password",
+        "msgstr": [
+          "Vänligen ange ett nytt lösenord"
+        ]
+      },
+      "Please enter a phone number.": {
+        "msgid": "Please enter a phone number.",
+        "msgstr": [
+          "Vänligen ange ett telefonnummer."
+        ]
+      },
+      "Please enter a position": {
+        "msgid": "Please enter a position",
+        "msgstr": [
+          "Vänligen välj en position"
+        ]
+      },
+      "Please enter a title": {
+        "msgid": "Please enter a title",
+        "msgstr": [
+          "Vänligen ange en titel"
+        ]
+      },
+      "Please enter a valid email address": {
+        "msgid": "Please enter a valid email address",
+        "msgstr": [
+          "Vänligen ange en giltig e-postadress"
+        ]
+      },
+      "Please enter a valid mobile number.": {
+        "msgid": "Please enter a valid mobile number.",
+        "msgstr": [
+          "Vänligen ange ett giltigt mobilnummer."
+        ]
+      },
+      "Please enter a valid phone number.": {
+        "msgid": "Please enter a valid phone number.",
+        "msgstr": [
+          "Vänligen ange ett giltigt telefonnummer."
+        ]
+      },
+      "Please enter a valid url": {
+        "msgid": "Please enter a valid url",
+        "msgstr": [
+          "Vänligen ange en giltig URL"
+        ]
+      },
+      "Please enter a valid URL for Android app": {
+        "msgid": "Please enter a valid URL for Android app",
+        "msgstr": [
+          "Vänligen ange en giltig URL för Android-app"
+        ]
+      },
+      "Please enter a valid URL for web app": {
+        "msgid": "Please enter a valid URL for web app",
+        "msgstr": [
+          "Vänligen ange en giltig URL för webb-app"
+        ]
+      },
+      "Please enter height": {
+        "msgid": "Please enter height",
+        "msgstr": [
+          "Vänligen ange höjd"
+        ]
+      },
+      "Please enter quality": {
+        "msgid": "Please enter quality",
+        "msgstr": [
+          "Vänligen ange kvalité"
+        ]
+      },
+      "Please enter size": {
+        "msgid": "Please enter size",
+        "msgstr": [
+          "Vänligen ange storlek"
+        ]
+      },
+      "Please enter the Address": {
+        "msgid": "Please enter the Address",
+        "msgstr": [
+          "Vänligen ange adressen"
+        ]
+      },
+      "Please enter the city": {
+        "msgid": "Please enter the city",
+        "msgstr": [
+          "Vänligen ange staden"
+        ]
+      },
+      "Please enter the client ID": {
+        "msgid": "Please enter the client ID",
+        "msgstr": [
+          "Vänligen ange klient-ID't"
+        ]
+      },
+      "Please enter the current password": {
+        "msgid": "Please enter the current password",
+        "msgstr": [
+          "Vänligen ange det nuvarande lösenordet"
+        ]
+      },
+      "Please enter the email": {
+        "msgid": "Please enter the email",
+        "msgstr": [
+          "Vänligen ange e-postadressen"
+        ]
+      },
+      "Please enter the organisation": {
+        "msgid": "Please enter the organisation",
+        "msgstr": [
+          "Vänligen ange organisationen"
+        ]
+      },
+      "Please enter the path": {
+        "msgid": "Please enter the path",
+        "msgstr": [
+          "Vänligen ange genvägen"
+        ]
+      },
+      "Please enter the secret key": {
+        "msgid": "Please enter the secret key",
+        "msgstr": [
+          "Vänligen ange den hemliga nyckeln"
+        ]
+      },
+      "Please enter width": {
+        "msgid": "Please enter width",
+        "msgstr": [
+          "Vänligen ange bredd"
+        ]
+      },
+      "Please publish to generate the link": {
+        "msgid": "Please publish to generate the link",
+        "msgstr": [
+          "Vänligen publicera för att generera länken"
+        ]
+      },
+      "Please select a language": {
+        "msgid": "Please select a language",
+        "msgstr": [
+          "Vänligen välj ett språk"
+        ]
+      },
+      "Please select a place": {
+        "msgid": "Please select a place",
+        "msgstr": [
+          "Vänligen välj en plats"
+        ]
+      },
+      "Please select the country": {
+        "msgid": "Please select the country",
+        "msgstr": [
+          "Vänligen välj landet"
+        ]
+      },
+      "Please upload a file": {
+        "msgid": "Please upload a file",
+        "msgstr": [
+          "Vänligen ladda upp en fil"
+        ]
+      },
+      "Please upload a file in suggested format": {
+        "msgid": "Please upload a file in suggested format",
+        "msgstr": [
+          "Vänligen ladda upp en fil i det föreslagna formatet"
+        ]
+      },
+      "Preview": {
+        "msgid": "Preview",
+        "msgstr": [
+          "Förhandsgrandska"
+        ]
+      },
+      "Publish": {
+        "msgid": "Publish",
+        "msgstr": [
+          "Publicera"
+        ]
+      },
+      "Task failed.": {
+        "msgid": "Task failed.",
+        "msgstr": [
+          "Uppgiften misslyckades."
+        ]
+      },
+      "Task is going on.": {
+        "msgid": "Task is going on.",
+        "msgstr": [
+          "Uppgiften pågår."
+        ]
+      },
+      "View": {
+        "msgid": "View",
+        "msgstr": [
+          "Visa"
+        ]
+      },
+      "Your account has been deleted successfully.": {
+        "msgid": "Your account has been deleted successfully.",
+        "msgstr": [
+          "Borttagningen av ditt konto lyckades."
+        ]
+      },
+      "Your event has been published successfully.": {
+        "msgid": "Your event has been published successfully.",
+        "msgstr": [
+          "Din händelse har publicerats med ett lyckat resultat."
+        ]
+      },
+      "Your event must have tickets before it can be published.": {
+        "msgid": "Your event must have tickets before it can be published.",
+        "msgstr": [
+          "Din händelse måste ha biljetter innan det kan publiceras."
+        ]
+      },
+      "Your password must have at least {ruleValue} characters": {
+        "msgid": "Your password must have at least {ruleValue} characters",
+        "msgstr": [
+          "Ditt lösenord måste ha minst {ruleValue} tecken"
+        ]
+      }
+    }
+  }
+}
